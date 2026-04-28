@@ -53,9 +53,8 @@ class Chirag:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔬 **Project 1** | Short description of what it does | `Python` `ML` |
-| 🤖 **Project 2** | Short description of what it does | `JavaScript` `AI` |
-| 📊 **Project 3** | Short description of what it does | `Python` `Data` |
+| 📊 **career-path-predictor** | ML-Powered Career Path Predictor | `JavaScript` `ML` |
+| 🤖 **fake-news-detector** | AI-powered fact-checking platform that verifies claims using Google Search + Gemini AI | `JavaScript` `Python` |
 
 ---
 
@@ -78,7 +77,7 @@ class Chirag:
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiragmohite&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Chiragmohite)
+[![Activity Graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chiragmohite&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -86,8 +85,8 @@ class Chirag:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chirag-mohite-971949290)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragmohite02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chiragmohite)
 
 </div>
