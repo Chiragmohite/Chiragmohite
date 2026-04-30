@@ -53,7 +53,7 @@ class Chirag:
 
 ---
 
-## 📌 Featured Projects
+## 📌 Top Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
