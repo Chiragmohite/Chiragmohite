@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Chirag+%F0%9F%91%8B;AI+%2F+ML+Engineer;Building+cool+stuff+with+Python+%26+JS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Chirag+%F0%9F%91%8B;AI+%2F+ML+Enthusiast;Building+cool+stuff+with+Python+%26+JS" alt="Typing SVG" />
 
 <!-- Stats banner -->
 <br/>
