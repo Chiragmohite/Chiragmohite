@@ -73,7 +73,7 @@ class Chirag:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chiragmohite&theme=tokyonight&hide_border=true)](https://github.com/Chiragmohite)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chiragmohite&theme=tokyonight&hide_border=true)](https://github.com/Chiragmohite)
 
 </div>
 
@@ -81,7 +81,7 @@ class Chirag:
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiragmohite&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Chiragmohite)
+[![Activity Graph](https://github-activity-graph.vercel.app/graph?username=Chiragmohite&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Chiragmohite)
 
 ---
 
