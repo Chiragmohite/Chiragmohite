@@ -66,14 +66,16 @@ class Chirag:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chiragmohite&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragmohite&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chiragmohite&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragmohite&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="165"/>
 
 </div>
 
 <div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chiragmohite&theme=tokyonight&hide_border=true)](https://github.com/Chiragmohite)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Chiragmohite&theme=tokyonight&hide_border=true)
 
 </div>
 
