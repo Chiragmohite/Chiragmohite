@@ -52,15 +52,6 @@ class Chirag:
 
 ---
 
-## 📌 Top Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📊 **career-path-predictor** | ML-Powered Career Path Predictor | `JavaScript` `ML` |
-| 🤖 **fake-news-detector** | AI-powered fact-checking platform that verifies claims using Google Search + Gemini AI | `JavaScript` `Python` |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
