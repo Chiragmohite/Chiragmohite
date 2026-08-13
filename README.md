@@ -51,13 +51,6 @@ Chirag().say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚧 Currently Building
-
-- 🧁🐶 **Muffin vs Chihuahua Classifier** — a binary image classifier built for a hackathon's Kaggle competition, currently in the online round; uses 3LC for dataset labeling with a `train.py` / `predict.py` workflow and test-time augmentation.
-- 🏦🔒 **SecureLend** — an AI-powered NBFC loan platform with a hybrid intrusion detection system, blending fintech, cybersecurity, and agentic AI, built via Emergent AI.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📊 GitHub Stats
 
 <div align="center">
